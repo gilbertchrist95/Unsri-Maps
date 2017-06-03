@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#80000000</color>
+    <color name="transparent1">#00ffffff</color>
+    <color name="listItem1">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="listItem2">#e8eefe</color>
+    <color name="listItemSelected">#3F51B5</color>
+    <color name="searchActive">#394dba</color>
+    <color name="searchNormal">#565656</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
